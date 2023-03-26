@@ -8,5 +8,11 @@ sudo kill $(sudo lsof -t -i:4200)
 ### Generate model 
 
 ```bash
-ng g m --routing nomeModulo
+ng generate module --routing nomeModulo
+```
+
+### Generate component 
+
+```bash
+ng generate component nomeComponentDiretorio/nomeComponent
 ```
