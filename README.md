@@ -17,6 +17,13 @@ ng generate module --routing nomeModulo
 ng generate component nome-modulo/nomeComponent
 ```
 
+### Generate environments
+
+```bash
+ng generate environments
+```
+
+
 # Errors
 ###  Error occurs in the template of component ServicoPrestadoFormComponent.
 ```html
