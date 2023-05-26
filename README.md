@@ -17,6 +17,12 @@ ng generate module --routing nomeModulo
 ng generate component nome-modulo/nomeComponent
 ```
 
+### Generate service 
+
+```bash
+ng generate service nome-modulo/nomeService
+```
+
 ### Generate environments
 
 ```bash
