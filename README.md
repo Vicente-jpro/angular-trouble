@@ -20,7 +20,7 @@ ng generate component nome-modulo/nomeComponent
 ### Generate service 
 
 ```bash
-ng generate service nome-modulo/nomeService
+ng generate service nomeService
 ```
 
 ### Generate environments
