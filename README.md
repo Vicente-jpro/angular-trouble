@@ -23,6 +23,12 @@ ng generate component nome-modulo/nomeComponent
 ng generate service nomeService
 ```
 
+### Generate interceptor 
+
+```bash
+ng generate interceptor token
+```
+
 ### Generate environments
 
 ```bash
