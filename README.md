@@ -34,6 +34,13 @@ ng generate interceptor nameInterceptor
 ```bash
 ng generate environments
 ```
+### Generate guard
+
+```bash
+ng generate guard nameAuthenticatedFile
+```
+
+
 
 
 # Errors
