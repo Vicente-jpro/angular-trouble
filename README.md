@@ -5,6 +5,11 @@
 sudo kill $(sudo lsof -t -i:4200)
 ```
 
+Create a new project with app.module
+```bash
+ng new [project-name] --no-standalone
+```
+
 ### Generate model 
 
 ```bash
